@@ -9,6 +9,7 @@
  https://www.springframework.org/schema/context/spring-beans.xsd">
  
  	<bean class="com.Springcore.Student" name="Student1" p:studId="5252"  p:studName="Jay" p:studAdd="Sinnar"/>
+ 	<bean class="com.Springcore.Student" name="Student2" p:studId="252"  p:studName="Amol" p:studAdd="Manmad"/>
  		
  <!-- <bean class="com.Springcore.Student" name="Student2">
  		<property name="studId" value="2244"/>
